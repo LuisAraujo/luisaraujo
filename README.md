@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Luis Araujo</h1>
+<h1 align="center">Luis Araujo</h1>
 <h3 align="center">Professor de Computação no Ensino Superior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="luisaraujo" /> </p>
 
-- 🔭 Atualmente trabalho na **UNIFACS**
+- 👨‍🏫 Atualmente trabalho como Professor na **UNIFACS e IFBA**
 
-- 🌱 Atualmente estou no **Doutorando em Computação (PGCOMP/UFBA)**
+- 👨‍🎓 Atualmente estou no **Doutorando em Ciência da Computação (PGCOMP/UFBA)**
 
-- 📝 Eu escrevo artigos em [https://medium.com/@luisgustavoaraujo](https://medium.com/@luisgustavoaraujo)
+- 📝 Eu escrevo artigos sobre Educação em Computração raramente em [https://medium.com/@luisgustavoaraujo](https://medium.com/@luisgustavoaraujo)
 
-- 💬 Pergunte-se sobre **Algoritmos POO, Estrutura de Dados, Jogos e Web**
+- 💬 Pergunte-se sobre **Algoritmos, POO, Estrutura de Dados, Jogos e Web**
 
 - 📫 Como chegar até mim **luisaraujo.ifba@gmail.com**
+
+- 📖 Sou co-autor da série de livros [Computação Fundamental] (https://sites.google.com/view/computacaofundamental/home) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
