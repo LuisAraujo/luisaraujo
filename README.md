@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="luisaraujo" /> </p>
 
-- 👨‍🏫 Atualmente trabalho como Professor na **UNIFACS e IFBA**
+- 👨‍🏫 Atualmente trabalho como Professor no **Instituto Federal de Ciência e Tecnologia da Bahia**
 
 - 👨‍🎓 Atualmente estou no **Doutorando em Ciência da Computação (PGCOMP/UFBA)**
 
