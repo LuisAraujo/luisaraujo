@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luisaraujo&show_icons=true&locale=en&layout=compact" alt="luisaraujo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en" alt="luisaraujo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en&include_all_commits=true" alt="luisaraujo" /></p>
