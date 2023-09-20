@@ -1,6 +1,8 @@
 <h1 align="center">Luis Araujo</h1>
 <h3 align="center">Professor de Computação no Ensino Superior</h3>
 
+<q><b>Falar é fácil, me mostre o código</q> <br> Linus Torvalds</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="luisaraujo" /> </p>
 
 - 👨‍🏫 Atualmente trabalho como Professor no **Instituto Federal de Ciência e Tecnologia da Bahia**
