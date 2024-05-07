@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="luisaraujo" /> </p>
 
-- 👨‍🏫 Atualmente trabalho como Professor no **Instituto Federal de Ciência e Tecnologia da Bahia** - Campus Feira de Santana.
+- 👨‍🏫 Sou Professor EBBT no **Instituto Federal de Ciência e Tecnologia da Bahia** - Campus Jacobina.
 
 - 👨‍🎓 Atualmente estou no **Doutorado em Ciência da Computação (PGCOMP/UFBA)** onde pesquisa sobre Mensagem de Erro de Programação Melhorada,
 
