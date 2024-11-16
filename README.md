@@ -29,5 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en&include_all_commits=true" alt="luisaraujo" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en&total_count=true" alt="luisaraujo" /></p>
