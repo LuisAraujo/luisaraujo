@@ -28,6 +28,3 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisaraujo)](https://github.com/stats-organization/github-stats-extended)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en&include_all_commits=true" alt="luisaraujo" /></p>
-
