@@ -27,5 +27,7 @@
 <a href="https://www.youtube.com/c/luis4raujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luis4raujo" height="30" width="40" /></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisaraujo)](https://github.com/stats-organization/github-stats-extended)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisaraujo&show_icons=true&locale=en&include_all_commits=true" alt="luisaraujo" /></p>
 
